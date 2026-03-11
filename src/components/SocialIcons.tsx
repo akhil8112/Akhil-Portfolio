@@ -1,7 +1,6 @@
 import {
   FaGithub,
   FaLinkedinIn,
-  FaXTwitter,
   FaCode,
 } from "react-icons/fa6";
 import {
