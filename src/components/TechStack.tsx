@@ -159,7 +159,7 @@ const TechStack = () => {
 
   return (
     <div className="techstack">
-      <h2> My Techstack</h2>
+      <h2> My Skills</h2>
 
       <Canvas
         gl={{ alpha: true, stencil: false, depth: false, antialias: false }}

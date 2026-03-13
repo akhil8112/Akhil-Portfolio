@@ -12,7 +12,7 @@ const Career = () => {
           <div className="career-timeline">
             <div className="career-dot"></div>
           </div>
-          <div className="career-info-box">
+          {/* <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Full Stack Developer</h4>
@@ -25,8 +25,8 @@ const Career = () => {
               authentication using Node.js & MongoDB. Created responsive UI/UX
               and designed wireframes using Figma.
             </p>
-          </div>
-          <div className="career-info-box">
+          </div> */}
+          {/* <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Senior Full Stack Developer</h4>
@@ -39,14 +39,14 @@ const Career = () => {
               operations platform. Developed multiple modules using React.js &
               migrated critical functionalities to Node.js microservices.
             </p>
-          </div>
+          </div> */}
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Data Analyst</h4>
+                <h5>1M1B</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2025</h3>
             </div>
             <p>
               Building Solid, a proprietary low-code platform using Angular,

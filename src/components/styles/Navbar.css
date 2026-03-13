@@ -19,8 +19,8 @@
   margin: 0;
   padding: 0;
   list-style: none;
-  column-gap: 40px;
-  row-gap: 8px;
+  column-gap: 20px;
+  row-gap: 6px;
   align-items: end;
 }
 .header ul li {
@@ -92,7 +92,7 @@
     padding: 35px 0px;
   }
   .header ul {
-    column-gap: 80px;
+    column-gap: 35px;
     font-size: 16px;
   }
   .navbar-connect {
